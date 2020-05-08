@@ -1,2 +1,2 @@
-# dl-datasets
-Datasets for deep learning
+# Datasets
+Added datasets for machine learning and data visualization.
